@@ -13,8 +13,8 @@ function convertValues () {
    console.log(currencySelect.value)
     //* o .value é utilizado p/ trazer somente valor selecionado(euro ou dolar)
     //*console.log exibe a mensagem no navegador
-    const dolarToday = 5.2
-    const euroToday = 6.2
+    const dolarToday = 5.58
+    const euroToday = 6.55
 
 
     if (currencySelect.value == "dolar"){ //* se o select estiver selecionado o valor de dolar, ele ira rodar toda essa parte do if
