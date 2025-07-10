@@ -2,9 +2,6 @@
 Este é um projeto simples de conversor de moedas feito com HTML, CSS e JavaScript. 
 A aplicação permite converter valores de Real (BRL) para Dólar (USD) ou Euro (EUR) com base em valores fixos definidos no código.
 
-📷 Demonstração
-![image](https://github.com/user-attachments/assets/3b682043-c343-46e1-99d4-ee52572ffd30)
-
 🚀 Funcionalidades
 *Conversão de valores de Real (BRL) para Dólar (USD) ou Euro (EUR);
 *Atualização da bandeira e nome da moeda ao trocar a opção no seletor;
